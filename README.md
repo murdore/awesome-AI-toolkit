@@ -138,6 +138,7 @@ For building AI pipelines and agents.
 | Haystack     | Production-ready NLP pipelines                                             | https://github.com/deepset-ai/haystack           | 18k   |
 | DSPy         | Programmatic prompt optimization                                           | https://github.com/stanfordnlp/dspy              | 15k   |
 | Semantic Kernel | AI integration SDK for .NET/Python/Java                                 | https://github.com/microsoft/semantic-kernel     | 8k    |
+| Neurolink    | Multi-agent orchestration framework with universal LLM provider support    | https://github.com/juspay/neurolink         | 700   |
 
 ### Computer Vision
 Libraries for image processing and vision tasks.
